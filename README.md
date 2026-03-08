@@ -1,10 +1,10 @@
-# 📊 Retail Performance Dashboard
+#  Retail Performance Dashboard
 
 This project is a **Retail Performance Dashboard** built using Power BI to analyze sales and profitability across products, time, and locations. The dashboard focuses on year-over-year performance, identifying top and underperforming products, and understanding regional profitability trends to support data-driven business decisions.
 
 ---
 
-### 🎯 Project Objectives
+###  Project Objectives
 * **Analyze Sales and Profit** performance over time.
 * **Compare current year vs previous year (PY)** results using DAX.
 * **Identify most profitable** and loss-making products.
@@ -13,7 +13,7 @@ This project is a **Retail Performance Dashboard** built using Power BI to analy
 
 ---
 
-### 🛠️ Tools & Technologies
+###  Tools & Technologies
 * **Power BI** (Data Visualization)
 * **DAX (Data Analysis Expressions)** (Calculations & Measures)
 * **Data Modeling** (Table Relationships)
@@ -21,7 +21,7 @@ This project is a **Retail Performance Dashboard** built using Power BI to analy
 
 ---
 
-### 🧠 Key Learnings & Applied Concepts
+###  Key Learnings & Applied Concepts
 
 1. **DAX Calculations**
    * Created measures to compute Sales, Profit, and Year-over-Year (YoY) comparisons.
@@ -39,7 +39,7 @@ This project is a **Retail Performance Dashboard** built using Power BI to analy
 
 ---
 
-### 📸 Dashboard Screenshots
+###  Dashboard Screenshots
 
 <img width="954" alt="Retail Performance Dashboard" src="https://github.com/user-attachments/assets/70fbd2b8-ba32-41b4-a4fc-817a4a89cfb9" />
 
