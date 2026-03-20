@@ -2,6 +2,11 @@
 
 This project is a **Retail Performance Dashboard** built using Power BI to analyze sales and profitability across products, time, and locations. The dashboard focuses on year-over-year performance, identifying top and underperforming products, and understanding regional profitability trends to support data-driven business decisions.
 
+## 🚀 Live Interactive Dashboard
+I've published the interactive version of this report to the Power BI Cloud. You can explore the data and filters here:
+
+👉 [**View Live Project on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiNzM0YTllOTItNjc2NC00MzhlLTk1YzAtMGFmZGFjMzkwYWEyIiwidCI6Ijg2Yzk5YjhjLTc1MzMtNDVlMC1hYmUxLWFmZDE2NTBiYzdjOCIsImMiOjEwfQ%3D%3D)
+
 ---
 
 ###  Project Objectives
